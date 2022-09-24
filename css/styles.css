@@ -116,4 +116,14 @@ img {
   padding: 30px;
   height: 100%;
 }
-
+.footer p {
+  margin-top: 1rem;
+}
+.footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #f6f9ff;
+  font-size: 14px;
+  border-top: 1px solid #e1ecff;
+  margin-top: 50px;
+}
