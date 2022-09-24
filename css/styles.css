@@ -106,3 +106,13 @@ img {
   transform: scale(1.1);
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
 }
+.contact .info-box {
+  color: #444444;
+  background: #fafbff;
+  padding: 30px;
+}
+.contact .php-email-form {
+    background: #fafbff;
+    padding: 30px;
+    height: 100%;
+}
