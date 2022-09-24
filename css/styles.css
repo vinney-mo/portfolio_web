@@ -72,16 +72,36 @@ img {
 .about-right p {
   margin-bottom: 30px;
 }
-.about-right h1, .my-services h1, .my-portfolio h1{
+.about-right h1,
+.my-services h1,
+.my-portfolio h1 {
   margin-bottom: 30px;
   font-weight: 400;
   font-size: 40px;
 }
 .service {
-    padding: 30px 20px;
-    text-align: center;
+  padding: 30px 20px;
+  text-align: center;
 }
-.service h4{
-    margin-top: 30px;
-    margin-bottom: 20px;
+.service h4 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.work {
+  padding: 30px 20px;
+  width: 90%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background: #fff;
+  text-align: center;
+  box-shadow: 0px 0 30px rgb(1 41 112 / 8%);
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  transition: 0.3s;
+}
+.work:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
 }
