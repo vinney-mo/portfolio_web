@@ -74,7 +74,8 @@ img {
 }
 .about-right h1,
 .my-services h1,
-.my-portfolio h1 {
+.my-portfolio h1,
+.contact h1 {
   margin-bottom: 30px;
   font-weight: 400;
   font-size: 40px;
