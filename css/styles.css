@@ -66,3 +66,17 @@ img {
   max-width: 100%;
   height: auto;
 }
+.about-me{
+    padding-top: 80px;
+}
+.about-right p {
+    margin-bottom: 30px;
+}
+.about-right h6 {
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.about-right h1 {
+    font-size: 40px;
+}
