@@ -8,6 +8,9 @@ body {
   background: #fff;
   color: #777;
 }
+.text-primary {
+    color: #3e64ff!important;
+}
 #header {
   position: fixed;
   left: 0;
