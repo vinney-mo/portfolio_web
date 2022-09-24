@@ -72,7 +72,7 @@ img {
 .about-right p {
   margin-bottom: 30px;
 }
-.about-right h1, .my-services h1 {
+.about-right h1, .my-services h1, .my-portfolio h1{
   margin-bottom: 30px;
   font-weight: 400;
   font-size: 40px;
