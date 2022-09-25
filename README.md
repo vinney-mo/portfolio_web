@@ -4,14 +4,16 @@
 ## A One Page Portfolio for Engineers!
 This repo contains an easy-to-customize one page personal dev portfolio template that was created with css and Js. It is lightweight and comes with the Bootstrap. You can easily edit styles, add custom images, colours, and scripts easily.
 
+
+## Project Link
+To view,  **[Click Here](https://vinney-mo.github.io/portfolio_web/)**
+
 ## Features
 
 - Modern UI Design + Hover Effects
 - One Page Layout
 - Custom CSS
 - Valid HTML & CSS
-
-To view a demo,  **[Click Here](https://vinney-mo.github.io/portfolio_web/)**
 
 ## Getting Started
 
