@@ -1,12 +1,12 @@
-
 [![Github](https://img.shields.io/github/license/anilseervi/DevFolio?color=%2312c2e9&logo=github&style=for-the-badge)](https://github.com/AnilSeervi/DevFolio/blob/master/README.md)
 
 ## A One Page Portfolio for Engineers!
+
 This repo contains an easy-to-customize one page personal dev portfolio template that was created with css and Js. It is lightweight and comes with the Bootstrap. You can easily edit styles, add custom images, colours, and scripts easily.
 
-
 ## Project Link
-To view,  **[Click Here](https://vinney-mo.github.io/portfolio_web/)**
+
+To view, **[Click Here](https://vinney-mo.github.io/portfolio_web/)**
 
 ## Features
 
@@ -38,7 +38,9 @@ $ cd portfolio_web
 ---
 
 ## Template Sections
+
 The template hast the following sections
+
 - Navbar
 - Banner
 - About Me
@@ -52,8 +54,7 @@ The template hast the following sections
 The content for all sections is found in [`index.html`](./index.html)\
 CSS File [`css/styles.css`](.css/styles.css)
 JS File [`js/scripts.js`](js/scripts.js)
-Image files located at  [`img`](img)
-
+Image files located at [`img`](img)
 
 ## Deployment
 
